@@ -1,0 +1,5 @@
+data
+*.map
+*.spec.*
+SetupPackage.*
+version.txt
